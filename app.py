@@ -17,8 +17,8 @@ st.set_page_config(
 )
 
 # ── Wczytanie danych ────────────────────────────────────────────────────────
-PROCESSED_DIR = "data/processed"
-DATA_DIR      = "data/raw"
+PROCESSED_DIR = "01_data/procced"
+DATA_DIR      = "01_data/raw"
 
 @st.cache_data
 def load_data():
