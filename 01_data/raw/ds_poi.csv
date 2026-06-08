@@ -1,0 +1,336 @@
+poi_id,category,name,lat,lng
+POI_0001,restaurant,Akira Sushi,50.444306,18.854625
+POI_0002,restaurant,Za furtką,50.007247,20.012085
+POI_0003,restaurant,Stodoła,50.060185,19.836112
+POI_0004,restaurant,Dworek Białoprądnicki,50.092904,19.940781
+POI_0005,restaurant,Pierwsze piętro,50.062469,19.935316
+POI_0006,restaurant,Bar Mleczny Targowy,50.057029,19.951824
+POI_0007,restaurant,Euforia,50.450068,19.369171
+POI_0008,restaurant,"Restauracja ""U Kusia""",50.173162,18.865431
+POI_0009,restaurant,Starka,50.05066,19.944398
+POI_0010,restaurant,Śniadaniownia Poranna Przystań,50.44398,19.215244
+POI_0011,restaurant,Ermitaż 2,50.054828,19.944626
+POI_0012,restaurant,Herbova,50.243957,19.780718
+POI_0013,restaurant,Strzelec,50.253229,19.004642
+POI_0014,restaurant,restaurant,50.065143,19.875702
+POI_0015,restaurant,Chaczapuri,50.292986,18.663345
+POI_0016,restaurant,Restauracja Staromieyska,50.323368,19.134592
+POI_0017,restaurant,Senator,50.375726,19.267981
+POI_0018,restaurant,Oberża,50.32126,19.093499
+POI_0019,restaurant,Restauracja dwór Bismarcka,50.228797,19.145853
+POI_0020,restaurant,"Pizzeria ""Eldo""",50.202869,19.105975
+POI_0021,restaurant,Dworek przy lesie,50.234762,19.635558
+POI_0022,restaurant,Delta Dietla,50.055822,19.945404
+POI_0023,restaurant,Ramen Shop Kraków,50.066231,19.969962
+POI_0024,restaurant,Trattoria Corrado,50.087561,19.901871
+POI_0025,restaurant,Pizza Hut,50.064124,19.998769
+POI_0026,restaurant,Pan da Sushi,50.168152,18.904599
+POI_0027,restaurant,Kluska na Placu,50.064033,19.936286
+POI_0028,restaurant,Atom Resto Bar,50.029272,19.905767
+POI_0029,restaurant,Zosieńka,50.07744,20.045592
+POI_0030,restaurant,Spice of India,50.054075,19.948143
+POI_0031,restaurant,Polsko Włoski,50.293234,18.669558
+POI_0032,restaurant,Gate of India,50.053315,19.939791
+POI_0033,restaurant,Kazimir,50.052041,19.943306
+POI_0034,restaurant,Jinling Dumpling,50.051271,19.941503
+POI_0035,restaurant,"Pizzeria ""We Love Pizza""",50.314436,18.768078
+POI_0036,restaurant,Zajazd pod złotą gąską,50.319663,19.134389
+POI_0037,restaurant,Koku Sushi,50.077224,19.926652
+POI_0038,restaurant,Tawerna La Capitana,50.067137,19.950171
+POI_0039,restaurant,Restauracja N°7,50.060827,19.938537
+POI_0040,restaurant,Terra Mare,50.277157,19.074691
+POI_0041,restaurant,Ave Bakery & Wine Bar,50.125754,18.983593
+POI_0042,restaurant,Rimini Pizza,50.229925,18.970951
+POI_0043,restaurant,Tasty King Kebab - Taste of Bangladesh,50.212497,18.986748
+POI_0044,restaurant,Bartek,50.323498,18.955181
+POI_0045,restaurant,restaurant,50.082438,19.161866
+POI_0046,restaurant,Współwinni,50.070692,19.894239
+POI_0047,restaurant,Milkbar Tomasza,50.062389,19.941528
+POI_0048,restaurant,Karczma Jurajska,50.453757,19.548022
+POI_0049,restaurant,Dobry Zbeer,50.292405,18.66105
+POI_0050,restaurant,Ice Dream,50.274761,18.989814
+POI_0051,restaurant,Ha Long,50.290469,18.966713
+POI_0052,restaurant,trafico,50.248314,19.031821
+POI_0053,restaurant,Hong HA,50.025469,19.973005
+POI_0054,restaurant,Sphinx,50.261399,19.022976
+POI_0055,restaurant,Kuchnia Marché,50.270881,19.003106
+POI_0056,restaurant,Miraż,50.396619,18.646466
+POI_0057,restaurant,Dobra Kasza Nasza,50.293707,18.665426
+POI_0058,restaurant,Karczma,50.26923,20.07096
+POI_0059,restaurant,El Grecco,50.439555,18.901857
+POI_0060,restaurant,Kwartet,50.34115,18.625971
+POI_0061,bank,ING Bank Śląski,50.14785,18.839064
+POI_0062,bank,polski,50.36562,18.790741
+POI_0063,bank,PKO BP,50.364292,18.799779
+POI_0064,bank,ING Bank Śląski,50.366911,19.261478
+POI_0065,bank,Alior Bank,50.089056,19.946228
+POI_0066,bank,Alior Bank,50.444162,18.859231
+POI_0067,bank,Citi Handlowy,50.053769,19.954798
+POI_0068,bank,PKO BP,50.142669,19.404886
+POI_0069,bank,Crédit Agricole,50.084999,20.020764
+POI_0070,bank,PKO BP,50.341617,19.561857
+POI_0071,bank,bank,50.287956,18.924056
+POI_0072,bank,Bank Pekao,50.347886,18.923157
+POI_0073,bank,PKO BP,50.084239,19.934664
+POI_0074,bank,Euronet,50.379878,18.890863
+POI_0075,bank,Bank Spółdzielczy w Pawłowicach,49.961147,18.774502
+POI_0076,bank,Mikołowski Bank Spółdzielczy,50.167171,18.908131
+POI_0077,bank,Krakowski Bank Spółdzielczy,50.119359,19.968518
+POI_0078,bank,Santander,50.254203,19.019146
+POI_0079,bank,Bank Pekao,50.146341,19.185925
+POI_0080,bank,ING Bank Śląski,50.214649,18.974898
+POI_0081,bank,Crédit Agricole,49.977745,18.946708
+POI_0082,bank,PKO BP,50.306467,18.785521
+POI_0083,bank,SKOK Stefczyka,50.201938,19.272672
+POI_0084,bank,Bank Spółdzielczy,49.996812,19.437022
+POI_0085,bank,Millennium Bank,50.260958,19.022743
+POI_0086,bank,City Handlowy,50.259501,19.017591
+POI_0087,bank,Nest Bank,50.229679,18.663625
+POI_0088,bank,SKOK Szopienice,50.272344,18.935406
+POI_0089,bank,PKO BP,50.070568,20.039208
+POI_0090,bank,Bank Spółdzielczy w Słomnikach,50.24366,20.081866
+POI_0091,school,Zespół Szkolno-Przedszkolny w Młoszowej,50.151675,19.489436
+POI_0092,school,Zasadnicza Szkoła Zawodowa nr 8,50.283861,18.67375
+POI_0093,school,Ogólnokształcąca Szkoła Muzyczna II stopnia,50.069407,20.040747
+POI_0094,school,Szkoła Podstawowa nr 3,50.292147,19.135831
+POI_0095,school,Szkoła Podstawowa nr 18 im. Konstantego Damrota,50.252969,18.909595
+POI_0096,school,"Zespół Szkół Zawodowych ""HTS""",50.091131,20.023452
+POI_0097,school,Szkoła Podstawowa z Oddziałami Integracyjnymi Nr 1,50.300299,18.64751
+POI_0098,school,cosinus,50.296631,18.671307
+POI_0099,school,Szkoła Podstawowa nr 21,50.234438,19.168247
+POI_0100,school,Szkoła Policealna dla Dorosłych nr 3,50.308113,18.678366
+POI_0101,school,Szkoła Podstawowa im. Tadeusza Kościuszki,50.378905,18.991959
+POI_0102,school,Szkoła Podstawowa nr 10,50.287623,19.125862
+POI_0103,school,Niepubliczne Liceum Ogólnokształcące „Otwarte Liceum”,50.439265,18.868768
+POI_0104,school,Szkoła Podstawowa im. Mikołaja Kopernika w Balinie,50.170759,19.373359
+POI_0105,school,Technikum nr 4,50.308161,18.780993
+POI_0106,school,Publiczna Szkoła Podstawowa im. Ignacego Jana Paderewskiego,49.995364,19.639512
+POI_0107,school,Zespół Szkół Muzycznych im. Michała Spisaka,50.315171,19.165836
+POI_0108,school,VII Liceum Ogólnokształcące,50.305924,18.946633
+POI_0109,school,II Liceum Ogólnokształcące im. Ziemi Olkuskiej w Olkuszu,50.265784,19.563608
+POI_0110,school,Zespół Szkół Mechanicznych nr 1 im. Szczepana Humberta,50.061499,19.924555
+POI_0111,school,Mała Finlandia,50.018385,19.955018
+POI_0112,school,Szkoła Podstawowa im. Św.Jadwigi Królowej w Prandocinie,50.266292,20.091541
+POI_0113,school,Zespół Szkół w Pilicy,50.4637,19.652374
+POI_0114,school,Specjalny Ośrodek Szkolno Wychowawczy w Chrzanowie,50.135568,19.39816
+POI_0115,school,Katolicka Szkoła Podstawowa,50.328513,18.789081
+POI_0116,school,Zespół Szkół Ogólnokształcących Nr 4 im. Piastów Śląskich,50.313941,18.675348
+POI_0117,school,Technikum nr.2 im. ks. prof. Józefa Tischnera,50.041976,18.687121
+POI_0118,school,Zespół Szkół Ogólnokształcących Nr 10,50.022297,19.986698
+POI_0119,school,Szkoła Podstawowa Sportowa,50.250883,19.133246
+POI_0120,school,Szkoła Podstawowa im. św. Królowej Jadwigi w Więcławicach Starych,50.154137,20.028591
+POI_0121,school,Centrum Kształcenia Zawodowego i Ustawicznego,50.316319,19.130006
+POI_0122,school,I Liceum Ogólnokształcące,50.22692,18.666691
+POI_0123,school,Zespół Szkół Administracyjno-Ekonomicznych i Ogólnokształcących,50.348794,18.922087
+POI_0124,school,Szkoła Podstawowa im. Jana Pawła II w Wołowicach,49.994458,19.731063
+POI_0125,school,Zespół Szkół Ogólnokształcących i Zawodowych,50.322249,18.996833
+POI_0126,school,Szkoła Podstawowa Zakonu Pijarów im. ks. Stanisława Konarskiego,50.084343,19.975355
+POI_0127,school,Zespół Szkół Technicznych M. Batko,50.296339,18.951774
+POI_0128,school,Szkoła Podstawowa nr 109 im. Kornela Makuszyńskiego,50.093236,19.946924
+POI_0129,school,Zespół Szkolno-przedszkolny numer 5,50.145576,18.999092
+POI_0130,school,Szkoła Podstawowa nr 36 im. Juliusza Słowackiego,50.322644,18.876537
+POI_0131,school,Zespół Szkół Społecznych nr 5 STO,50.015103,20.004452
+POI_0132,school,Zespół Szkół nr 7 im. Stanisława Mastalerza,50.270199,18.971219
+POI_0133,school,Szkoła Podstawowa Specjalna nr 1,50.321803,19.169831
+POI_0134,school,Szkoła Podstawowa nr 3 im. Joanny von Schaffgotsch-Gryzik,50.311518,18.857767
+POI_0135,school,VII Liceum Ogólnokształcące im. Krzysztofa Kamila Baczyńskiego,50.289153,19.175891
+POI_0136,school,Wielozawodowy Zespół Szkół im. rotmistrza Witolda Pileckiego w Zatorze,49.994333,19.432156
+POI_0137,school,school,50.224638,19.809882
+POI_0138,school,Szkoła Podstawowa nr 20,50.253464,18.89902
+POI_0139,school,Zasadnicza Szkoła Zawodowa nr 2 dla Dorosłych,50.288302,18.792156
+POI_0140,school,Szkoła Podstawowa nr 5 im. Marcina Bylicy w Olkuszu,50.284039,19.563575
+POI_0141,school,Technikum nr 1,50.298572,18.694773
+POI_0142,school,Zespół Szkół Usługowo-Rzemieślniczych,50.324372,18.927632
+POI_0143,school,Zespół Szkół w Czerwionce-Leszczynach,50.15556,18.664593
+POI_0144,school,Szkoła Podstawowa nr 14 z Oddziałami Integracyjnymi imienia Adama Mickiewicza,50.316815,18.781222
+POI_0145,school,Zespół Szkolno-Przedszkolny im. Tadeusza Kościuszki w Ryczowie,49.980306,19.544521
+POI_0146,school,Zespół Szkół Ogólnokształcących nr 5 imienia Armii Krajowej,50.280138,18.65443
+POI_0147,school,Szkoła Podstawowa numer 3 imienia świętego Stanisława Kostki,50.096457,18.583933
+POI_0148,school,Szkoła podstawowa nr 159,50.058965,19.942458
+POI_0149,school,Szkoła Podstawowa nr 16 im. Jana Śniadeckiego,50.055805,19.944241
+POI_0150,school,IV Liceum Ogólnokształcące im. generała Stanisława Maczka,50.269748,19.029655
+POI_0151,bus_stop,Zawada Stacja,50.13146,18.748652
+POI_0152,bus_stop,Czyżówka,50.209049,19.472648
+POI_0153,bus_stop,Bieruń Krupnicza,50.063194,19.148285
+POI_0154,bus_stop,Myślachowice,50.184451,19.479389
+POI_0155,bus_stop,Sarnów Główna,50.373812,19.151061
+POI_0156,bus_stop,Cmentarz Podgórski 03,50.039497,19.963596
+POI_0157,bus_stop,Wirek Kościół,50.273956,18.863575
+POI_0158,bus_stop,Kuźnica Warężyńska [nż],50.401868,19.181325
+POI_0159,bus_stop,Żychcice Piaski 79,50.379705,19.020942
+POI_0160,bus_stop,Ciesielskiego 01,50.062101,20.01397
+POI_0161,bus_stop,Mników Baczyn Pętla,50.089888,19.670182
+POI_0162,bus_stop,Dąbrowa Narodowa Długoszyńska (22),50.229909,19.222024
+POI_0163,bus_stop,Czyżówka Pętla,50.210379,19.467423
+POI_0164,bus_stop,Płaza Dolna I (Pętla),50.081819,19.441083
+POI_0165,bus_stop,bus_stop,49.996098,20.033718
+POI_0166,bus_stop,Ks. Łaczka 01,50.01008,20.030321
+POI_0167,bus_stop,Nowy Bieżanów Południe,50.01271,20.015692
+POI_0168,bus_stop,Biprostal 03,50.073234,19.914825
+POI_0169,bus_stop,Nikiszowiec Szyb Pułaski,50.240659,19.078335
+POI_0170,bus_stop,Brzoskwinia Remiza,50.095686,19.718581
+POI_0171,bus_stop,Wodzisławska-Spokojna,50.031562,18.635547
+POI_0172,bus_stop,Bieżanów Potrzask 02,50.008293,20.052814
+POI_0173,bus_stop,Kostrze Szkoła 01,50.029131,19.855607
+POI_0174,bus_stop,Świerczyniec Pętla,50.077745,19.048998
+POI_0175,bus_stop,Bytom Kraszewskiego,50.355054,18.918509
+POI_0176,bus_stop,Rybnik Paruszowiec-Piaski Błonia,50.101321,18.581631
+POI_0177,bus_stop,Węgrzce Magiczne Wzgórze,50.113726,19.975139
+POI_0178,bus_stop,Jankowice Kolonia,49.9971,18.973709
+POI_0179,bus_stop,Wilcza Kościół,50.188958,18.595389
+POI_0180,bus_stop,Zawiercie Obrońców Poczty Gdańskiej II,50.477943,19.40923
+POI_0181,bus_stop,Katowice AWF,50.251083,19.004417
+POI_0182,bus_stop,Os. Piastów,50.101306,20.013205
+POI_0183,bus_stop,Ciężkowice Braci Śniadeckich (74),50.215683,19.342266
+POI_0184,bus_stop,Gorenice Szkoła,50.208401,19.612424
+POI_0185,bus_stop,Środula Północna,50.300534,19.156012
+POI_0186,bus_stop,Gliwice Centrum Handlowe Arena,50.3071,18.646687
+POI_0187,bus_stop,Osiedle Kopernika Brożka,50.330812,18.770199
+POI_0188,bus_stop,Szczygłowice Kościół,50.194942,18.64989
+POI_0189,bus_stop,Zabawa Centrum,49.994202,20.089726
+POI_0190,bus_stop,Ząbkowice Osiedle Młodych Hutników,50.382899,19.248022
+POI_0191,bus_stop,Halemba Panewnicka,50.242071,18.883778
+POI_0192,bus_stop,Górka Pychowicka 02,50.033948,19.875724
+POI_0193,bus_stop,Cmentarz Grębałów 01,50.091127,20.070238
+POI_0194,bus_stop,Ugorek 02,50.077937,19.983349
+POI_0195,bus_stop,Makoszowy Szymały,50.262208,18.755932
+POI_0196,bus_stop,Rudawa Stadion,50.113865,19.709314
+POI_0197,bus_stop,Knurów Remiza,50.223858,18.671143
+POI_0198,bus_stop,Wysocice Górka,50.281373,19.912023
+POI_0199,bus_stop,Osiedle Zamkowe Grodziecka,50.333303,19.123166
+POI_0200,bus_stop,Warszowice Kościół,49.99302,18.711142
+POI_0201,bus_stop,Olkusz Kościół,50.266453,19.574162
+POI_0202,bus_stop,Jankowice Gwarek,50.048066,18.567894
+POI_0203,bus_stop,Górki Poczta,50.103054,19.136778
+POI_0204,bus_stop,Ożarowice Zubrza,50.471131,19.050274
+POI_0205,bus_stop,Kamieniec Gospodarstwo Rolne n/ż,50.409771,18.708428
+POI_0206,bus_stop,Siemonia Droga do Myszkowic n/ż,50.431021,19.057481
+POI_0207,bus_stop,Zbrosławice Dom Opieki,50.41336,18.736843
+POI_0208,bus_stop,Rybnik Gortatowice Straż,50.075317,18.616415
+POI_0209,bus_stop,Smardzowice Wołówka,50.187299,19.854353
+POI_0210,bus_stop,Bytom Dworzec,50.34373,18.913556
+POI_0211,park,park,50.402653,18.904004
+POI_0212,park,park,50.166225,18.548223
+POI_0213,park,"Skwer Danuty Siedzikówny ""Inki""",50.290329,19.133678
+POI_0214,park,park,50.263784,19.089583
+POI_0215,park,Skwer Pamięci Ofiar Marszów Śmierci,50.109915,18.546817
+POI_0216,park,Skwer Europejski,50.032369,18.697618
+POI_0217,park,park,50.117223,18.986283
+POI_0218,park,Skwer Emila i Georga Zillmannów,50.243845,19.083202
+POI_0219,park,park,50.311365,18.675217
+POI_0220,park,Park pałacowy,49.986362,19.323396
+POI_0221,park,park,50.234459,19.125793
+POI_0222,park,park,50.275619,18.934019
+POI_0223,park,Skwer Heleny i Romana Husarskich,50.047321,19.871306
+POI_0224,park,Leśne Pogotowie dla Zwierząt,50.193715,18.917389
+POI_0225,park,park,50.261741,18.964571
+POI_0226,park,Park w Łagiewnikach,50.023089,19.944336
+POI_0227,park,Ptasi Zagajnik,50.045887,20.001352
+POI_0228,park,plac gier,50.318975,18.690293
+POI_0229,park,park,50.358824,19.854425
+POI_0230,park,park,50.347512,18.922715
+POI_0231,park,Plac Szczęśliwego Krasnala,50.311633,19.268163
+POI_0232,park,park,50.043512,18.625592
+POI_0233,park,park,50.225815,18.952718
+POI_0234,park,park,50.36597,18.796844
+POI_0235,park,park,50.057763,19.951418
+POI_0236,park,Park im. Lotnikow Polskich,50.227475,19.243521
+POI_0237,park,Skwer Księdza Józefa Kempińskiego,50.293483,18.953764
+POI_0238,park,park,50.227836,18.964438
+POI_0239,park,park,50.16054,19.459578
+POI_0240,park,park,50.069645,19.98285
+POI_0241,park,Park Malownik,50.187619,18.996534
+POI_0242,park,park,49.961453,18.711252
+POI_0243,park,park,49.972967,19.136164
+POI_0244,park,park,50.430442,19.385514
+POI_0245,park,park,50.112868,19.612706
+POI_0246,park,Ogródki działkowe przy Paderewskiego,50.478633,19.45244
+POI_0247,park,park,50.27421,18.928915
+POI_0248,park,Małe Planty,50.169047,18.901581
+POI_0249,park,park,49.980618,20.049349
+POI_0250,park,Park Krakowski,50.068075,19.92445
+POI_0251,pharmacy,Św. Stanisława 2,49.968867,19.052391
+POI_0252,pharmacy,pharmacy,50.25536,19.017348
+POI_0253,pharmacy,Apteka św. Barbary 4,50.227676,18.657115
+POI_0254,pharmacy,Super-Pharm,50.087656,19.984865
+POI_0255,pharmacy,Niezapominajka,50.083014,20.031651
+POI_0256,pharmacy,Zdrowit,50.386565,18.95044
+POI_0257,pharmacy,Ziko Apteka,50.444243,18.82567
+POI_0258,pharmacy,pharmacy,50.375038,19.873226
+POI_0259,pharmacy,Apteka Gomed,50.357809,20.029742
+POI_0260,pharmacy,Galen,50.101479,19.968007
+POI_0261,pharmacy,Apteka Słoneczna,50.052874,19.940045
+POI_0262,pharmacy,Ziko Apteka,50.064621,19.879852
+POI_0263,pharmacy,Apteka Mandragora,50.339353,19.22489
+POI_0264,pharmacy,ISOFARM,50.210816,18.973951
+POI_0265,pharmacy,Apteka Lawenda,50.333155,18.940408
+POI_0266,pharmacy,pharmacy,50.294942,19.153566
+POI_0267,pharmacy,Dr. Max,50.455341,18.837729
+POI_0268,pharmacy,Nova,50.015364,19.107649
+POI_0269,pharmacy,Super-Pharm,50.311284,18.788293
+POI_0270,pharmacy,Apteka Dobrych Rad,50.395215,19.015508
+POI_0271,pharmacy,Prima,50.305308,18.756206
+POI_0272,pharmacy,Zdrowit,50.104938,19.329334
+POI_0273,pharmacy,"Apteka ""Słoneczna""",50.090785,19.926779
+POI_0274,pharmacy,Apteka Dbam O Zdrowie,50.304377,18.681289
+POI_0275,pharmacy,Apteka Farmaceutów,50.209419,18.980224
+POI_0276,pharmacy,Prima,50.292257,19.175109
+POI_0277,pharmacy,Dbam o Zdrowie,50.221659,18.673733
+POI_0278,pharmacy,Apteka Gaj,50.201677,19.443614
+POI_0279,pharmacy,Hygieia,50.144004,19.41427
+POI_0280,pharmacy,Dbam o Zdrowie,50.326522,19.160981
+POI_0281,pharmacy,Ziko Apteka,50.073321,19.934456
+POI_0282,pharmacy,Arnika,50.037716,19.208755
+POI_0283,pharmacy,Gemini,50.323241,19.120137
+POI_0284,pharmacy,Apteka Hygieia,50.088605,19.964818
+POI_0285,pharmacy,Pharmacon,50.048593,18.701008
+POI_0286,pharmacy,Apteka Zdrowit,50.365614,18.844
+POI_0287,pharmacy,pharmacy,50.063142,19.492073
+POI_0288,pharmacy,Św. Damiana,50.120442,18.628345
+POI_0289,pharmacy,Dbam o Zdrowie,50.261213,19.019591
+POI_0290,pharmacy,Cito,50.293343,18.662787
+POI_0291,hospital,Budynek A5,50.065493,20.045543
+POI_0292,hospital,"ZLO ""Kościuszko""",50.202128,19.270681
+POI_0293,hospital,Wielospecjalistyczny Szpital Powiatowy S.A. im. Bronisława Hagera w Tarnowskich Górach,50.446974,18.851291
+POI_0294,hospital,Nefrolux,50.304017,19.031078
+POI_0295,hospital,Budynek CALD,50.012511,20.000319
+POI_0296,hospital,Oddział Kliniczny Okulistyki i Onkologii Okulistycznej,50.063868,19.951884
+POI_0297,hospital,Wielospecjalistyczny Szpital Powiatowy im. dr B. Hagera,50.43993,18.806138
+POI_0298,hospital,Budynek A,50.009167,20.00024
+POI_0299,hospital,Euro-Klinika,50.303145,19.028017
+POI_0300,hospital,Lexmedica,50.302981,19.137173
+POI_0301,hospital,Szpital Specjalistyczny nr 2 w Bytomiu,50.347422,18.908683
+POI_0302,hospital,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSW,50.072103,19.912491
+POI_0303,hospital,Przychodnia Zdrowia Skawina,49.972565,19.82934
+POI_0304,hospital,Centrum Medyczne Familia Bańgów,50.327056,19.030023
+POI_0305,hospital,hospital,50.202187,19.270591
+POI_0306,hospital,Przychodnia,50.072106,19.913921
+POI_0307,hospital,CAALM,50.443964,18.857068
+POI_0308,hospital,Bona-Med Sp. z o.o.,50.291464,18.658862
+POI_0309,hospital,holsäMED,50.278882,19.009076
+POI_0310,hospital,Zdrovit,50.318025,19.065241
+POI_0311,hospital,Zakład Radiologii i Diagnostyki Obrazowej,50.090665,19.935562
+POI_0312,hospital,Centrum Medyczne ORBIMED,50.114849,18.994062
+POI_0313,hospital,Centrum Medyczne Syberka,50.323427,19.120212
+POI_0314,hospital,Centrum Medyczne Diabet,50.140808,19.398626
+POI_0315,hospital,Porodówka,50.06539,20.046981
+POI_0316,hospital,Małopolskie Centrum Sercowo-Naczyniowe,50.137085,19.430182
+POI_0317,hospital,TFP Fertility Macierzyństwo,50.093271,19.938173
+POI_0318,hospital,Poliklinika Doktora Bessera. NZOZ,50.296369,19.132717
+POI_0319,hospital,Centrum Medyczno Rehabilitacyjne,50.235625,18.977477
+POI_0320,hospital,Przychodnia Rejonowa,50.274482,18.830192
+POI_0321,mall,Dom Towarowy w Orzeszu,50.143659,18.774632
+POI_0322,mall,Swoszowice Centrum,49.993668,19.945947
+POI_0323,mall,Centrum Handlowe Tandeta - Hala I,50.043477,19.970974
+POI_0324,mall,Dom towarowy Kaufhaus,50.294049,18.874118
+POI_0325,mall,Vendo Park,50.037628,19.212519
+POI_0326,mall,Pasaż Ruczaj,50.020944,19.902562
+POI_0327,mall,Reno,50.478774,18.80299
+POI_0328,mall,mall,49.983163,18.932917
+POI_0329,mall,Centrum Handlowe Krokus,50.087457,19.981575
+POI_0330,mall,mall,49.964551,19.816705
+POI_0331,mall,Centrum Handlowe Żory,50.033993,18.683666
+POI_0332,mall,Galeria PIK,50.167506,18.904237
+POI_0333,mall,CHU Planeta,50.229642,18.663544
+POI_0334,mall,Centrum Handlowe Max,50.141884,19.413357
+POI_0335,mall,Primus Center,50.316003,19.118277

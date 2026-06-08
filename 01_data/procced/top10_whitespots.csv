@@ -1,0 +1,11 @@
+rank,lat,lng,score,predicted_revenue,pop_total,adres
+1,50.260000000000154,19.014999999999905,32.2,587261.8611658695,3232.0,"31, 3 Maja, Załęskie Przedmieście, Śródmieście, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-077, Polska"
+2,50.260000000000154,19.009999999999906,31.4,573330.5393406234,3020.0,"9, 5, Sądowa, Załęskie Przedmieście, Śródmieście, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-078, Polska"
+3,50.26500000000016,19.009999999999906,30.6,558700.9600957006,987.0,"Friedricha Wilhelma Grundmanna, Załęskie Przedmieście, Śródmieście, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-079, Polska"
+4,50.05000000000005,19.954999999999718,29.3,536314.7449939705,3561.0,"Bulwar Kurlandzki, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 30-506, Polska"
+5,50.26500000000016,19.014999999999905,29.1,532387.6333084839,3073.0,"Szkolne Schronisko Młodzieżowe Ślązaczek, 26, Sokolska, Załęskie Przedmieście, Śródmieście, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-086, Polska"
+6,50.05000000000005,19.94999999999972,28.7,525478.11812175,3905.0,"Świętego Wawrzyńca, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-035, Polska"
+7,50.05000000000005,19.94499999999972,28.6,524287.08037103474,5851.0,"Kościół pw. Bożego Ciała, Świętego Wawrzyńca, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-060, Polska"
+8,50.27000000000016,19.004999999999907,28.6,524109.72620241134,1242.0,"eSmoking World, Chorzowska, Osiedle Ducha, Dąb, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-101, Polska"
+9,50.25500000000015,19.019999999999904,28.3,518264.1660676039,7096.0,"15, Plebiscytowa, Śródmieście, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-035, Polska"
+10,50.26500000000016,19.004999999999907,28.3,517804.69495698524,1732.0,"Techvitas Polska, 15B, Żelazna, Dąb, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-851, Polska"

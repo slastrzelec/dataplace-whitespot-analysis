@@ -1,0 +1,42 @@
+# ── DANE (Ignorujemy surowe i gigantyczne pliki) ─────────────────────────────
+# Blokujemy pobrane archiwa i bazy danych, żeby nie przeciążyć GitHuba
+*.gz
+*.zip
+*.rar
+*.tar
+*.bzip2
+
+# Ignorujemy pliki lokalne, z których korzystałeś podczas budowy modelu
+# (Streamlit w chmurze będzie czytał tylko przygotowane, mniejsze pliki .csv z folderu data/)
+*.xlsx
+*.sqlite
+*.db
+
+# ── SEKRETY I HASŁA ────────────────────────────────────────────────────────
+# Jeśli zapisywałeś hasła do Snowflake lub AWS w plikach tekstowych/środowiskowych
+.env
+secret.txt
+credentials*
+config.ini
+secrets.toml
+
+# ── ŚRODOWISKO VIRTUALNE I PYTHON ──────────────────────────────────────────
+# Ignorujemy foldery środowisk (np. venv, conda), cache oraz pliki systemowe
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.conda/
+
+# ── NOTEBOOKI I PLIKI TYMCZASOWE ───────────────────────────────────────────
+# Ignorujemy foldery konfiguracyjne Jupyter Notebooka i checkpointy
+.ipynb_checkpoints
+.virtual_documents/
+
+# Pliki tymczasowe systemów operacyjnych
+.DS_Store
+Thumbs.db
