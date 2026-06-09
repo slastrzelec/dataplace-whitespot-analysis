@@ -83,8 +83,6 @@ Porównałem 4 modele na dwóch zestawach cech:
 
 Zamiast statycznego dashboardu w Looker Studio zbudowałem interaktywną aplikację która pozwala klientowi samodzielnie eksplorować whitespoty z filtrami (score, populacja, odległość od konkurencji, brand konkurencji).
 
-🔗 [Link do aplikacji po deployu]
+🔗 [Link do aplikacji po deployu](https://dataplace-whitespot-analysis.streamlit.app/)
 
----
-
-## Struktura notebooków
+🔗 [Link do aplikacji po deployu](https://dataplace-whitespot-analysis.streamlit.app/)
